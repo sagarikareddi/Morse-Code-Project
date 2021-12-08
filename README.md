@@ -7,8 +7,7 @@ root = Tk()
 root.geometry("902x700")
 root.minsize(902, 700)
 root.maxsize(902, 700)
-todaydate = time.asctime()
-print(todaydate)
+
 
 
 # Function to clear text of result
